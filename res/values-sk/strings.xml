@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android SMS Logger</string>
+    <string name="logger_start">Android SMS Logger spustený</string>
+    <string name="logger_stop">Android SMS Logger zastavený</string>
+</resources>
