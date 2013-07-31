@@ -3,6 +3,7 @@ C:\Users\Jozefovovic\ESSETJOINUS\logger\gen\sk\joineset\logger\R.java \
 C:\Users\Jozefovovic\ESSETJOINUS\logger\res\drawable-ldpi\ic_launcher.png \
 C:\Users\Jozefovovic\ESSETJOINUS\logger\res\drawable-mdpi\ic_launcher.png \
 C:\Users\Jozefovovic\ESSETJOINUS\logger\res\layout\main.xml \
+C:\Users\Jozefovovic\ESSETJOINUS\logger\res\layout-land\main.xml \
 C:\Users\Jozefovovic\ESSETJOINUS\logger\res\values\strings.xml \
 C:\Users\Jozefovovic\ESSETJOINUS\logger\res\values-sk\strings.xml \
 C:\Users\Jozefovovic\ESSETJOINUS\logger\bin\res\drawable-hdpi\ic_launcher.png \
